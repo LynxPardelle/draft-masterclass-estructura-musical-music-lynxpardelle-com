@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-estructura-musical.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Estructura y arreglo musical | Lynx Pardelle",
+    "description": "Lleva una idea repetitiva a una línea de tiempo con secciones y cambios de energía. Trabaja en la vista Arrangement de Ableton Live para organizar capas, automatizaciones y archivos de la sesión.",
+    "canonical": "https://masterclass-estructura-musical.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-produccion.webp"
+    }
+  }
+}
