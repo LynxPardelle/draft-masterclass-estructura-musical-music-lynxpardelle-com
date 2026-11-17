@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Estructura y arreglo musical | Lynx Pardelle",
-    "description": "Lleva una idea repetitiva a una línea de tiempo con secciones y cambios de energía. Trabaja en la vista Arrangement de Ableton Live para organizar capas, automatizaciones y archivos de la sesión.",
+    "title": "Masterclass de estructura y arreglo en Ableton Live | Lynx Pardelle",
+    "description": "Lleva un loop a un arreglo con secciones y transiciones. Practica automatización, Arrangement y gestión de archivos en Ableton Live.",
     "canonical": "https://masterclass-estructura-musical.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-estructura-musical-r2-362a74f2009f9b39.webp",
+      "title": "Masterclass de estructura y arreglo en Ableton Live | Lynx Pardelle",
+      "description": "Lleva un loop a un arreglo con secciones y transiciones. Practica automatización, Arrangement y gestión de archivos en Ableton Live.",
+      "url": "https://masterclass-estructura-musical.music.lynxpardelle.com/",
+      "imageAlt": "Sesión de arreglo musical con pistas y controlador en el estudio."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de estructura y arreglo en Ableton Live | Lynx Pardelle",
+      "description": "Lleva un loop a un arreglo con secciones y transiciones. Practica automatización, Arrangement y gestión de archivos en Ableton Live.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-estructura-musical-r2-362a74f2009f9b39.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-estructura-musical.music.lynxpardelle.com/#webpage",
+        "name": "Estructura y arreglo musical",
+        "description": "Lleva un loop a un arreglo con secciones y transiciones. Practica automatización, Arrangement y gestión de archivos en Ableton Live.",
+        "url": "https://masterclass-estructura-musical.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-estructura-musical.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-estructura-musical.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Estructura y arreglo musical",
+        "description": "Lleva un loop a un arreglo con secciones y transiciones. Practica automatización, Arrangement y gestión de archivos en Ableton Live.",
+        "url": "https://masterclass-estructura-musical.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-estructura-musical-r2-362a74f2009f9b39.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-estructura-musical.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
